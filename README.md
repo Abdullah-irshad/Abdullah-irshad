@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abdullah-irshad
-- 👀 I’m interested in backend and android development
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on node js, java backend, android 
-- 📫 How to reach me ... on github
+- 👀 I’m interested in backend engineering 
+- 💞️ I’m looking to collaborate on NodeJs, java backend, Ts
+- skills -- Ts, java, Nginx, RabbitMq, Docker, Kubernetes, prisma, mongoose, Mysql, MongoDB
+- core subjects --- DBMS, OS, CN, system design, LLD, DSA
 
 <!---
 Abdullah-irshad/Abdullah-irshad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
